@@ -1,0 +1,3 @@
+USERNAME="user"
+PASSWORD="pass"
+DEVICES = ["10.10.10.10", "10.10.10.20"]
