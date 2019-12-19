@@ -1,3 +1,4 @@
+__pycache__/*
 env3/*
 config.py
 route_collector.py
